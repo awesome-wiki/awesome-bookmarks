@@ -1,2 +1,2 @@
 # awesome-resources
-collect some awesome resources about apps, tools, IT e-books, websites^-^
+Collect and share some awesome resources about apps, tools, IT e-books, websites^-^
