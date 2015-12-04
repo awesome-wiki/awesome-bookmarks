@@ -8,21 +8,22 @@
 [TOC]
 
 -----
-# Python
-## [笨办法学python](http://www.2cto.com/shouce/Pythonbbf/)
+## Python
+### [笨办法学python](http://www.2cto.com/shouce/Pythonbbf/)
 
 
-# Javascript
-
-
-
-# Tools Online
+## Javascript
 
 
 
+## Tools Online
+### [代码在线运行](http://tool.lu/coderunner/)
 
-# 技术社区
 
 
+## 技术社区
+### [segmentfault](http://segmentfault.com/)
 
-# Machine Learning
+
+## Machine Learning
+### [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
