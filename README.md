@@ -8,7 +8,7 @@
 分享发现的好资源，好工具！
 
 -----
-测试
+
 
 ## Python
 + [笨办法学python](http://www.2cto.com/shouce/Pythonbbf/)
