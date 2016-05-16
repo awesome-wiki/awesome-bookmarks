@@ -4,7 +4,7 @@
 ![](http://ww3.sinaimg.cn/thumbnail/6d9475f6jw1f3x9dmflpqj20sg0sgta0.jpg)
 
 > iPlay(253744345)分享群资源整理~
-> 希望资料收藏爱好着能发现还用的东西~
+> 希望资料收藏爱好着能发现有用的东西~
 
 分享发现的好资源，好工具！
 
@@ -115,8 +115,7 @@
 > 
 
 
-<script src='//w.segmentfault.com/card/1030000002497141.js?w=0&3rd=1&bg=0&bd=DDDDDD&cl=333333&btn=009a62&noBtn=0'></script>
-----
+
 
 本文由 **[Michael翔](http://michaelxiang.me/)** 创作，采用 **[知识共享署名 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by/3.0/cn/) **进行许可。
 可自由转载、引用，但需署名作者且注明文章出处。
