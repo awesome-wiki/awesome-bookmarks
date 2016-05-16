@@ -67,8 +67,6 @@
 - [百度脑图](http://naotu.baidu.com/)
 - [word pdf等格式转换](http://cn.diywz.com/)
 
-
-
 ## IDE
 
 - [JetBrain](https://www.jetbrains.com/student/)  家族的软件-webstorm\pycharm等,利用edu教育邮箱注册，可以免费用专业版
@@ -77,12 +75,25 @@
 
 - [chrome插件下载](http://chromecj.com/)
 - [知乎-如何优雅地使用 Chrome？](https://www.zhihu.com/question/20595240)
+- [你极力推荐的 Chrome 扩展有哪些？](https://www.zhihu.com/question/19594682/answer/73157222)
 
 ## 技术社区
 
 - [segmentfault](http://segmentfault.com/)
 - [V2EX](http://www.v2ex.com/)
 
+# 电子文档
+## 电子书下载
+
+- [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
+- [读远](http://readcolor.com/) 很好，不知道这么推荐会不会有影响。
+- [Kindle走读派](http://www.zoudupai.com/)
+- [Kindle伴侣](http://kindlefere.com/)
+
+## 外文技术
+- [Book see](http://en.booksee.org/)
+- [4FREE-EBOOKS Category Ebook search](http://4free-ebooks.com/)
+- [Library Genesis1M](http://gen.lib.rus.ec/)
 
 # Code
 ## Python
