@@ -1,6 +1,7 @@
 
 # Michael翔的资源导航
-![](http://ww3.sinaimg.cn/large/6d9475f6jw1f3x9dmflpqj20sg0sgta0.jpg)
+
+![](http://ww3.sinaimg.cn/thumbnail/6d9475f6jw1f3x9dmflpqj20sg0sgta0.jpg)
 
 > iPlay(253744345)分享群资源整理~
 > 希望资料收藏爱好着能发现还用的东西~
