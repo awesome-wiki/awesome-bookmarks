@@ -15,9 +15,35 @@
 
 - [在线工具网站](http://tool.lu/) 想要找在线工具，就先来这儿看看吧，几乎都有！
 - [菜鸟工具](http://c.runoob.com/)
+- [开源中国-在线工具](http://tool.oschina.net/) 正则、编辑等等，全能导航
 - [Atool在线工具](http://www.atool.org/) 开发、PS等
+- [codepen](http://codepen.io/) 在线代码编辑分享，请教问题时有用。
 - [在线进制转换](http://tool.oschina.net/hexconvert/)
+- [IP查询](http://www.ipip.net/)
 
+## 前端相关
+### 图片工具
+
+- [占位图-极客标签](http://www.gbtags.com/gb/gblaitu.htm)
+- [图标搜索-easyicon](http://www.easyicon.net/)
+- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+- [图标-Font Awesome](http://fontawesome.io/)
+- [奥森字体图标](http://www.thinkcmf.com/font)
+
+### color相关
+
+- [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
+- [MATERIAL DESIGN COLORS](MATERIAL DESIGN COLORS) 颜色搭配
+- [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
+
+### CSS
+
+- [CSS小工具](http://linxz.github.io/tianyizone/) 居中等设置
+- [Button Generator](http://www.bestcssbuttongenerator.com/) 生成CSS按钮
+
+### 正则
+
+- [JavaScript正则](https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24)
 
 
 ## 数学神器
@@ -32,12 +58,7 @@
 - [百度网盘搜索-盘搜](http://www.pansou.com/)
 - [学术搜索](http://www.gycc.com/)
 
-## 图片工具
-- [占位图-极客标签](http://www.gbtags.com/gb/gblaitu.htm)
-- [图标搜索-easyicon](http://www.easyicon.net/)
-- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
-- [图标-Font Awesome](http://fontawesome.io/)
-- [奥森字体图标](http://www.thinkcmf.com/font)
+
 
 ## 文档编辑
 - [百度-DOC](http://word.baidu.com/welcome.html)
@@ -68,6 +89,10 @@
 
 ## Machine Learning
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+
+
+> 未完，待续
 
 
 
