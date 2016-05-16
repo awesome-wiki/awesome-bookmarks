@@ -1,6 +1,6 @@
 
-# awesome-resources
-![Logo](http://ww2.sinaimg.cn/large/6d9475f6jw1eynmraiux1j2074074q3e.jpg)
+# Michael翔的资源导航
+![](http://ww3.sinaimg.cn/large/6d9475f6jw1f3x9dmflpqj20sg0sgta0.jpg)
 
 > iPlay(253744345)分享群资源整理~
 > 希望资料收藏爱好着能发现还用的东西~
@@ -61,6 +61,7 @@
 
 
 ## 文档编辑
+
 - [百度-DOC](http://word.baidu.com/welcome.html)
 - [百度脑图](http://naotu.baidu.com/)
 - [word pdf等格式转换](http://cn.diywz.com/)
@@ -68,33 +69,45 @@
 
 
 ## IDE
+
 - [JetBrain](https://www.jetbrains.com/student/)  家族的软件-webstorm\pycharm等,利用edu教育邮箱注册，可以免费用专业版
 
 ## 浏览器
+
 - [chrome插件下载](http://chromecj.com/)
 - [知乎-如何优雅地使用 Chrome？](https://www.zhihu.com/question/20595240)
 
 ## 技术社区
+
 - [segmentfault](http://segmentfault.com/)
 - [V2EX](http://www.v2ex.com/)
 
 
 # Code
 ## Python
+
 - [笨办法学python](http://www.2cto.com/shouce/Pythonbbf/)
 - [用Python和Pygame写游戏-从入门到精通](http://eyehere.net/2011/python-pygame-novice-professional-index/)
 
 ## Javascript
+
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 ## Machine Learning
+
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
+#更新日志
+> 20160516 15:29 更新tools相关
+> 
 
-> 未完，待续
 
+<script src='//w.segmentfault.com/card/1030000002497141.js?w=0&3rd=1&bg=0&bd=DDDDDD&cl=333333&btn=009a62&noBtn=0'></script>
+----
 
+本文由 **[Michael翔](http://michaelxiang.me/)** 创作，采用 **[知识共享署名 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by/3.0/cn/) **进行许可。
+可自由转载、引用，但需署名作者且注明文章出处。
 
 
 
