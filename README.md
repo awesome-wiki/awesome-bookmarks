@@ -82,6 +82,8 @@
 - [segmentfault](http://segmentfault.com/)
 - [V2EX](http://www.v2ex.com/)
 
+-----
+
 # 电子文档
 ## 电子书下载
 
@@ -94,6 +96,8 @@
 - [Book see](http://en.booksee.org/)
 - [4FREE-EBOOKS Category Ebook search](http://4free-ebooks.com/)
 - [Library Genesis1M](http://gen.lib.rus.ec/)
+
+-----
 
 # Code
 ## Python
@@ -109,6 +113,7 @@
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+-----
 
 #更新日志
 > 20160516 15:29 更新tools相关
