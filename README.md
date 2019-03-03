@@ -21,7 +21,7 @@
 ### 版本控制
 
 - [sourcegraph](https://sourcegraph.com/welcome#github-integration) 配合 Github 使用，真是利器，有 Chrome 扩展
-- [Git History](https://github.com/pomber/git-history) 一篇[文章](https://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432869&idx=1&sn=2a916adcff63c7350eb9bafdb1324316&chksm=fc7fb4f2cb083de443609f04d8db18da5f91c51eebddbda3d5c43ed2dc1fc694f5838da53337&mpshare=1&scene=1&srcid=#rd)介绍了如何使用它，但是我看了官网，貌似只需要将 GitHub 仓库的 『github.com』网址替换为『github-history.xyz.com』，则可以动态显示文件的提交历史，也有对应的[扩展](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related)
+- [Git History](https://github.com/pomber/git-history) 一篇[文章](https://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432869&idx=1&sn=2a916adcff63c7350eb9bafdb1324316&chksm=fc7fb4f2cb083de443609f04d8db18da5f91c51eebddbda3d5c43ed2dc1fc694f5838da53337&mpshare=1&scene=1&srcid=#rd)介绍了如何使用它，但是我看了官网，貌似只需要将 GitHub 仓库的 「github.com」网址替换为「github-history.xyz.com」，则可以动态显示文件的提交历史，也有对应的[扩展](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related)
 - [BitHubLab](https://www.bithublab.org/) 搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等的项目
 
 ### 正则
