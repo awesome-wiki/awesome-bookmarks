@@ -1,7 +1,7 @@
 
 # 利器清单
 
-> 希望资料收藏爱好着能发现有用的东西，也欢迎 Fork 提交 PR，推荐你的「利器」
+> 希望资料收藏爱好着能发现有用的东西，也欢迎 Fork [仓库-awesome-tools-resources](https://github.com/Michael728/awesome-tools-resources) 提交 PR，推荐你的「利器」
 
 分享发现的好资源，好工具！
 
@@ -18,11 +18,12 @@
 
 ## 程序员工具
 
-### 版本控制
+### Git 相关
 
 - [sourcegraph](https://sourcegraph.com/welcome#github-integration) 配合 Github 使用，真是利器，有 Chrome 扩展
 - [Git History](https://github.com/pomber/git-history) 一篇[文章](https://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432869&idx=1&sn=2a916adcff63c7350eb9bafdb1324316&chksm=fc7fb4f2cb083de443609f04d8db18da5f91c51eebddbda3d5c43ed2dc1fc694f5838da53337&mpshare=1&scene=1&srcid=#rd)介绍了如何使用它，但是我看了官网，貌似只需要将 GitHub 仓库的 「github.com」网址替换为「github-history.xyz.com」，则可以动态显示文件的提交历史，也有对应的[扩展](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related)
 - [BitHubLab](https://www.bithublab.org/) 搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等的项目
+- [gitignore.io](https://www.gitignore.io/) 在线给开发项目生成 `.gitignore` 文件
 
 ### 正则
 
@@ -36,29 +37,33 @@
 - [图标-Font Awesome](http://fontawesome.io/)
 - [奥森字体图标](http://www.thinkcmf.com/font)
 
-### color相关
+### Web 开发
 
 - [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
-- [MATERIAL DESIGN COLORS](MATERIAL DESIGN COLORS) 颜色搭配
 - [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
-
-### CSS
-
-- [CSS小工具](http://linxz.github.io/tianyizone/) 居中等设置
 - [Button Generator](http://www.bestcssbuttongenerator.com/) 生成CSS按钮
+
+### 测试
+
+- [locust](https://github.com/locustio/locust/) Python 实现的压测工具，参考[作为程序员的你，常用的工具软件有哪些？](https://www.zhihu.com/question/22867411)
 
 ### 综合
 
 - [Tool在线工具](http://tool.lu/) 很全的在线工具集合
 - [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
 - [菜鸟工具](http://c.runoob.com/) 开发相关的大而全的工具集合
-- [speedtest](http://www.speedtest.net/zh-Hans) 测网速
+- [devdocs](https://devdocs.io/) 在线的开发文档，包含各个语言
 - [codelf](https://unbug.github.io/codelf/) 变量取名、函数取名
-- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
 - [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
 - [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
 - [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
 - [谷歌访问助手](http://www.ggfwzs.com/)
+- [speedtest](http://www.speedtest.net/zh-Hans) 测网速
+
+### 数据库
+
+- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
+- [MyWebSQL](http://mywebsql.net/) 在线的 MySQL 客户端
 
 ### Linux
 
@@ -145,6 +150,10 @@
 - [Book see](http://en.booksee.org/)
 - [4FREE-EBOOKS Category Ebook search](http://4free-ebooks.com/)
 - [Library Genesis1M](http://gen.lib.rus.ec/)
+
+## 娱乐
+
+- [A SOFT MURMUR](https://asoftmurmur.com/) 白噪音网站，可以组合模拟出各个场景，工作时听听，静静心
 
 ## 打赏
 
