@@ -115,6 +115,12 @@
 - [chrome插件下载](http://chromecj.com/)
 - [Chrome扩展收藏列表](https://michael728.github.io/2015/11/26/tools-chrome-extentions/)
 
+## 教程
+
+记录一些在线学习平台
+
+- [金老师的新教学网站](http://jinxuliang.com/OnlineStudy)
+
 ## 视频
 
 ### 技术
