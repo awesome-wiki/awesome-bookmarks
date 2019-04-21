@@ -11,12 +11,20 @@
 
 这里总结一下私藏的**利器**🎯：
 
-## 搜索工具
+## 搜索
 
 - [虫部落-快搜](http://so.chongbuluo.com/) 集大成者，推荐！
 - [学术搜索](http://www.gycc.com/)
+- [谷歌趋势](https://trends.google.com/trends/?geo=US)
 
 ## 程序员工具
+
+### 工具导航
+
+- [Tool在线工具](http://tool.lu/) 很全的在线工具集合
+- [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
+- [菜鸟工具](http://c.runoob.com/) 开发相关的大而全的工具集合
+- [MikuTols](https://miku.tools/) 集成了很多好玩的工具，包含了视频下载
 
 ### Git 相关
 
@@ -53,9 +61,6 @@
 
 ### 综合
 
-- [Tool在线工具](http://tool.lu/) 很全的在线工具集合
-- [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
-- [菜鸟工具](http://c.runoob.com/) 开发相关的大而全的工具集合
 - [devdocs](https://devdocs.io/) 在线的开发文档，包含各个语言
 - [codelf](https://unbug.github.io/codelf/) 变量取名、函数取名
 - [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
