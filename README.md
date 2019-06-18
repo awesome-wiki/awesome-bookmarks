@@ -98,8 +98,7 @@
 
 - [虫部落工具集合](http://tool.chongbuluo.com/) 很全的在线工具集合|
 - [PDF工具](https://smallpdf.com/cn) 万能PDF工具集合
-- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具
-- [online-markdown](http://blog.didispace.com/tools/online-markdown/) 推荐，markdown排版复制之后，发文章
+- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
 - [百度脑图](http://naotu.baidu.com/)
 - [word pdf等格式转换](http://cn.diywz.com/)
 
