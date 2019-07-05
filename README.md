@@ -157,7 +157,7 @@
 - [值得学习的技术博客资源](https://michael728.github.io/2018/09/16/blog-interesting/)
 - [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
 - [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
-- [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/)
+- [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
 - [Itbook](https://itbook.download/) 电子书下载
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
 - [SaltTiger](https://salttiger.com/archives/) 主要分享一些英文的 IT 电子书
