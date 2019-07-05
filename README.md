@@ -103,13 +103,15 @@
 - [word pdf等格式转换](http://cn.diywz.com/)
 
 ## 图片
-
+### 图片资源
 - [Pixabay](https://pixabay.com/) 免费图片，不可商用，可搜中文
 - [Pexels](https://www.pexels.com/) 免费图片，不可商用
 - [Unsplash](https://unsplash.com/) 免费图片，不可商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
-- [TinyPng](https://tinypng.com/) 在线图片压缩网站
 - [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
+
+### 图片工具
+- [TinyPng](https://tinypng.com/) 在线图片压缩网站
 
 ## 浏览器
 
