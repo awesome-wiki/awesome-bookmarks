@@ -1,7 +1,7 @@
 
 # 利器清单
 
-> 希望资料收藏爱好着能发现有用的东西，也欢迎 Fork [仓库-awesome-tools-resources](https://github.com/Michael728/awesome-tools-resources) 提交 PR，推荐你的「利器」
+> 希望资料收藏爱好着能发现有用的东西，也欢迎 Fork 仓库 [awesome-tools-resources](https://github.com/Michael728/awesome-tools-resources) 提交 PR，推荐你的「利器」
 
 分享发现的好资源，好工具！
 
@@ -98,16 +98,19 @@
 
 - [虫部落工具集合](http://tool.chongbuluo.com/) 很全的在线工具集合|
 - [PDF工具](https://smallpdf.com/cn) 万能PDF工具集合
-- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具
+- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
 - [百度脑图](http://naotu.baidu.com/)
 - [word pdf等格式转换](http://cn.diywz.com/)
 
 ## 图片
-
+### 图片资源
 - [Pixabay](https://pixabay.com/) 免费图片，不可商用，可搜中文
 - [Pexels](https://www.pexels.com/) 免费图片，不可商用
 - [Unsplash](https://unsplash.com/) 免费图片，不可商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
+- [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
+
+### 图片工具
 - [TinyPng](https://tinypng.com/) 在线图片压缩网站
 
 ## 浏览器
