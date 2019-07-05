@@ -16,15 +16,18 @@
 - [虫部落-快搜](http://so.chongbuluo.com/) 集大成者，推荐！
 - [学术搜索](http://www.gycc.com/)
 - [谷歌趋势](https://trends.google.com/trends/?geo=US)
+- [设计师导航](http://hao.uisdc.com/)
 
 ## 程序员工具
 
-### 工具导航
+### 工具集合
 
 - [Tool在线工具](http://tool.lu/) 很全的在线工具集合
 - [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
 - [菜鸟工具](http://c.runoob.com/) 开发相关的大而全的工具集合
 - [MikuTols](https://miku.tools/) 集成了很多好玩的工具，包含了视频下载
+- [开源中国-在线工具](http://tool.oschina.net/)
+- [ATool](http://www.atool9.com/classification_dev_tools.html) 集成了开发者工具、站长工具、便民工具
 
 ### Git 相关
 
@@ -44,12 +47,14 @@
 - [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 - [图标-Font Awesome](http://fontawesome.io/)
 - [奥森字体图标](http://www.thinkcmf.com/font)
+- [Instant Logo Search](http://instantlogosearch.com/) 企业 Logo
 
 ### Web 开发
 
 - [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
 - [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
 - [Button Generator](http://www.bestcssbuttongenerator.com/) 生成CSS按钮
+- [codepen](https://codepen.io/) 代码在线编辑分享
 
 ### 网络
 
@@ -66,8 +71,7 @@
 - [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
 - [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
 - [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
-- [谷歌访问助手](http://www.ggfwzs.com/)
-- [speedtest](http://www.speedtest.net/zh-Hans) 测网速
+- [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤信息
 
 ### 数据库
 
@@ -88,11 +92,18 @@
 
 ### 数学
 
-- [数字帝国 ](https://zh.numberempire.com/)
+- [数字帝国 ](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
+- [desmos](https://www.desmos.com/) 数学函数绘制
 
-## 求职
+### 设计
+
+- [nipponcolors](http://nipponcolors.com/#nadeshiko) 日本的一个配色网站
+- [flatuicolors](https://flatuicolors.com/) 配色网站，复制颜色
+
+## 职场
 
 - [冷熊简历](http://cv.ftqq.com/#) MD 简历生成 PDF
+- [天眼查](https://www.tianyancha.com/)
 
 ## 办公工具
 
@@ -101,9 +112,17 @@
 - [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
 - [百度脑图](http://naotu.baidu.com/)
 - [word pdf等格式转换](http://cn.diywz.com/)
+- [毛笔字体控制](https://www.zhenhaotv.com/) 生成毛笔字在线工具
+- [识字体](https://www.likefont.com/) 根据你上传图片的文字，识别字体
+- [字体转换器](http://www.diyiziti.com/)
+- [幕布](https://mubu.com/list)
+- [smallpdf](https://smallpdf.com/cn) PDF 线上工具
+- [文件转换器](https://convertio.co/zh/)
 
 ## 图片
+
 ### 图片资源
+
 - [Pixabay](https://pixabay.com/) 免费图片，不可商用，可搜中文
 - [Pexels](https://www.pexels.com/) 免费图片，不可商用
 - [Unsplash](https://unsplash.com/) 免费图片，不可商用
@@ -111,7 +130,10 @@
 - [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
 
 ### 图片工具
+
 - [TinyPng](https://tinypng.com/) 在线图片压缩网站
+- [Trianglify](https://trianglify.io/) 自己动手生成三角立体背景图片
+- [vectormagic](https://vectormagic.com/) 将图片转换成矢量图片
 
 ## 浏览器
 
@@ -161,18 +183,29 @@
 - [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
 - [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
 - [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
-- [Itbook](https://itbook.download/) 电子书下载
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
 - [SaltTiger](https://salttiger.com/archives/) 主要分享一些英文的 IT 电子书
 - [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
+- [熊猫搜书](https://ebook.huzerui.com/#/) 电子书搜索
+- [博客-我的小书屋](http://mebook.cc/)
 - [Kindle伴侣](http://kindlefere.com/)
+- [Library Genesis1M](http://gen.lib.rus.ec/)
+- [oreilly](https://www.oreilly.com.cn/ideas/)
+- [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
 - [Book see](http://en.booksee.org/)
 - [4FREE-EBOOKS Category Ebook search](http://4free-ebooks.com/)
-- [Library Genesis1M](http://gen.lib.rus.ec/)
+- [allitebooks](http://www.allitebooks.org/) 英文技术书籍下载
+- [IT eBooks](http://it-ebooks.info/)
+- [Itbook](https://itbook.download/) 电子书下载
+- [booksee](https://en.booksee.org/)
 
 ## 娱乐
 
 - [A SOFT MURMUR](https://asoftmurmur.com/) 白噪音网站，可以组合模拟出各个场景，工作时听听，静静心
+- [Pandownload](https://www.baiduwp.com/) 网盘下载器
+- [谷歌访问助手](http://www.ggfwzs.com/)
+- [speedtest](http://www.speedtest.net/zh-Hans) 测网速
+
 
 ## 打赏
 
