@@ -17,6 +17,7 @@
 - [学术搜索](http://www.gycc.com/)
 - [谷歌趋势](https://trends.google.com/trends/?geo=US)
 - [设计师导航](http://hao.uisdc.com/)
+- [SymbolHound](http://symbolhound.com/) 符号搜索
 
 ## 程序员工具
 
@@ -39,6 +40,8 @@
 ### 正则
 
 - [正则可视化工具](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+- [regexr](https://regexr.com/)
+- [JS 正则](https://regexper.com/)
 
 ### 图标
 
@@ -89,6 +92,7 @@
 
 - [PythonTip](http://www.pythontip.com/) 挑战 Python 算法练习
 - [algorithm-visualizer](https://algorithm-visualizer.org/) 一个算法可视化的在线演示网站
+- [sorting](http://sorting.at/) 排序算法可视化展示
 
 ### 数学
 
@@ -127,7 +131,12 @@
 - [Pexels](https://www.pexels.com/) 免费图片，不可商用
 - [Unsplash](https://unsplash.com/) 免费图片，不可商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
+- [wallhaven](https://wallhaven.cc/) 壁纸网站
+- [wallpapershome](https://wallpapershome.com/) 壁纸
+- [ZOL桌面壁纸](http://desk.zol.com.cn/)
+- [justinmaller](http://www.justinmaller.com/) 立体图案的壁纸
 - [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
+- [图鱼](http://www.hituyu.com/) 图片纹理素材
 
 ### 图片工具
 
@@ -164,6 +173,7 @@
 ## 技术社区
 
 - [DockerOne](http://dockone.io/) 容器技术社区
+- [DaoCloud 社区](http://open.daocloud.io/)
 - [增长黑盒](http://growthbox.net/) 一个网络安全的咨询网站
 - [TesterHome](https://testerhome.com/) 一个测试开发者社区，中文的
 - [V2EX](http://www.v2ex.com/)
@@ -180,7 +190,9 @@
 ## 阅读
 
 - [值得学习的技术博客资源](https://michael728.github.io/2018/09/16/blog-interesting/)
+- [汉典](https://www.zdic.net/)
 - [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
+- [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
 - [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
 - [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
@@ -205,7 +217,17 @@
 - [Pandownload](https://www.baiduwp.com/) 网盘下载器
 - [谷歌访问助手](http://www.ggfwzs.com/)
 - [speedtest](http://www.speedtest.net/zh-Hans) 测网速
+- [在线涂鸦](http://weavesilk.com/)
+- [](http://www.xn--vi8hiv.ws/) linkmoji 🍕💩-网址转换为表情短链接
+- [oreilly-generator](http://oreilly-generator.com/) 图灵书籍封面制作
 
+## 软件下载
+
+- [msdn.itellyou](https://msdn.itellyou.cn/)
+
+## API Doc
+
+- [pm25](http://www.pm25.in/api_doc)
 
 ## 打赏
 
