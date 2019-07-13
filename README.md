@@ -152,9 +152,13 @@
 
 ## 教程
 
-记录一些在线学习平台
+### IT 相关
 
 - [金老师的新教学网站](http://jinxuliang.com/OnlineStudy)
+
+### Other
+
+- [盲打学习课程](https://www.typingstudy.com/zh/)
 
 ## 视频
 
