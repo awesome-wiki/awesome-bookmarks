@@ -166,6 +166,8 @@
 
 - [IT大咖说](http://www.itdks.com/lives/) 技术视频分享
 - [odecasts](https://www.codecasts.com/) 从高质量的视频中学习 Web 开发技术，虽然关于 PHP 框架的多，但是还是能学到东西的
+- [中国大学MOOC](https://www.icourse163.org/)
+- [学堂在线](http://www.xuetangx.com/)
 
 ### 影视娱乐
 
