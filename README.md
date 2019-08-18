@@ -7,13 +7,13 @@
 
 -----
 
-![](http://ww1.sinaimg.cn/large/6d9475f6ly1fx4gq3nu72j20hs0dcdha.jpg)
+![飞船](http://ww1.sinaimg.cn/large/6d9475f6ly1fx4gq3nu72j20hs0dcdha.jpg)
 
 这里总结一下私藏的**利器**🎯：
 
 ## 搜索
 
-- [虫部落-快搜](http://so.chongbuluo.com/) 集大成者，推荐！
+- [虫部落-快搜](https://search.chongbuluo.com/) 集大成者，推荐！
 - [学术搜索](http://www.gycc.com/)
 - [谷歌趋势](https://trends.google.com/trends/?geo=US)
 - [设计师导航](http://hao.uisdc.com/)
@@ -21,7 +21,7 @@
 
 ## 程序员工具
 
-### 工具集合
+### 在线工具集
 
 - [Tool在线工具](http://tool.lu/) 很全的在线工具集合
 - [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
@@ -67,6 +67,11 @@
 
 - [locust](https://github.com/locustio/locust/) Python 实现的压测工具，参考[作为程序员的你，常用的工具软件有哪些？](https://www.zhihu.com/question/22867411)
 
+### 数据库
+
+- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
+- [MyWebSQL](http://mywebsql.net/) 在线的 MySQL 客户端
+
 ### 综合
 
 - [devdocs](https://devdocs.io/) 在线的开发文档，包含各个语言
@@ -75,11 +80,6 @@
 - [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
 - [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
 - [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤信息
-
-### 数据库
-
-- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
-- [MyWebSQL](http://mywebsql.net/) 在线的 MySQL 客户端
 
 ### Linux
 
@@ -90,14 +90,15 @@
 
 ### 算法
 
+- [leetcode-cn](https://leetcode-cn.com/problemset/all/) 力扣，算法练习网站
+- [leetcode](https://leetcode.com/) 力扣英文
 - [PythonTip](http://www.pythontip.com/) 挑战 Python 算法练习
 - [algorithm-visualizer](https://algorithm-visualizer.org/) 一个算法可视化的在线演示网站
 - [sorting](http://sorting.at/) 排序算法可视化展示
-- [leetcode-cn](https://leetcode-cn.com/problemset/all/) 刷算法的网站
 
 ### 数学
 
-- [数字帝国 ](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
+- [数字帝国](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
 - [desmos](https://www.desmos.com/) 数学函数绘制
 
 ### 设计
@@ -247,4 +248,4 @@
 ## ChangeLog
 
 - 20190303：和博客利器中的内容作了整合，后期先 GitHub 资源更新，再和博客同步
-- 20160516：更新tools相关
+- 20160516：更新tools**相关
