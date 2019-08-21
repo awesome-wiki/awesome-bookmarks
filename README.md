@@ -18,6 +18,7 @@
 - [谷歌趋势](https://trends.google.com/trends/?geo=US)
 - [设计师导航](http://hao.uisdc.com/)
 - [SymbolHound](http://symbolhound.com/) 符号搜索
+- [java-api-examples](https://www.programcreek.com/java-api-examples/?action=search) 顾名思义
 
 ## 程序员工具
 
@@ -52,7 +53,7 @@
 - [奥森字体图标](http://www.thinkcmf.com/font)
 - [Instant Logo Search](http://instantlogosearch.com/) 企业 Logo
 
-### Web 开发
+### Web 前端
 
 - [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
 - [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
