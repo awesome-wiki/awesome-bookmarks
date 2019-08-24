@@ -40,6 +40,7 @@
 - [Git History](https://github.com/pomber/git-history) 一篇[文章](https://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432869&idx=1&sn=2a916adcff63c7350eb9bafdb1324316&chksm=fc7fb4f2cb083de443609f04d8db18da5f91c51eebddbda3d5c43ed2dc1fc694f5838da53337&mpshare=1&scene=1&srcid=#rd)介绍了如何使用它，但是我看了官网，貌似只需要将 GitHub 仓库的 「github.com」网址替换为「github-history.xyz.com」，则可以动态显示文件的提交历史，也有对应的[扩展](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related)
 - [BitHubLab](https://www.bithublab.org/) 搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等的项目
 - [gitignore.io](https://www.gitignore.io/) 在线给开发项目生成 `.gitignore` 文件
+- [Octodex](https://octodex.github.com) Github 的章鱼猫图片集
 
 ### 正则
 
@@ -110,6 +111,14 @@
 - [稿定设计](https://www.gaoding.com/) [一篇文章](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247488635&idx=1&sn=9cd6ffeaac6d8c27277331a70ae9ed25&chksm=ec21efdcdb5666ca3e41c5fa9bc302232cf586afb5e94c71d605bd926356242574b2d8f07bfc&mpshare=1&scene=1&srcid=&sharer_sharetime=1565693416197&sharer_shareid=ae8eb1508a08c1b134df82bb484ea38d#rd) 介绍了这个作图超方便的网站！打算制作个公众号 logo 试试~
 - [nipponcolors](http://nipponcolors.com/#nadeshiko) 日本的一个配色网站
 - [flatuicolors](https://flatuicolors.com/) 配色网站，复制颜色
+
+### 镜像源
+
+- [华为开源镜像站](https://mirrors.huaweicloud.com/) Maven 源、Manjaro 源、Elasticsearch 等都有，非常全
+- [阿里镜像](https://opsx.alibaba.com/mirror) 有 Homebrew 的镜像源
+- [USTC中科大镜像源](http://mirrors.ustc.edu.cn/)
+- [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+- [腾讯软件源](https://mirrors.cloud.tencent.com/)
 
 ## 职场
 
@@ -190,6 +199,7 @@
 - [增长黑盒](http://growthbox.net/) 一个网络安全的咨询网站
 - [TesterHome](https://testerhome.com/) 一个测试开发者社区，中文的
 - [V2EX](http://www.v2ex.com/)
+- [elastic 中文社区](https://elasticsearch.cn/)
 
 ## 有趣的社区
 
