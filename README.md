@@ -1,7 +1,10 @@
 
 # 利器清单
 
-> 希望资料收藏爱好着能发现有用的东西，也欢迎 Fork 仓库 [awesome-tools-resources](https://github.com/Michael728/awesome-tools-resources) 提交 PR，或者在 [issues]() 中写下你推荐你的「利器」
+> 希望资料收藏爱好着能发现有用的东西，也欢迎你推荐你正在使用的 「利器」！你可以采用如下两种方法推荐：
+
+- Fork 仓库 [awesome-tools-resources](https://github.com/Michael728/awesome-tools-resources) 提交 PR
+- 在 [issues](https://github.com/Michael728/awesome-tools-resources/issues/new) 中写下你推荐你的「利器」
 
 分享发现的好资源，好工具！
 
