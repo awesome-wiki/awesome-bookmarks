@@ -47,6 +47,7 @@
 - [正则可视化工具](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 - [regexr](https://regexr.com/)
 - [JS 正则](https://regexper.com/)
+- [Github-ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) Github 上一个关注很高的正则教程
 
 ### 图标
 
