@@ -175,6 +175,8 @@
 ### Other
 
 - [盲打学习课程](https://www.typingstudy.com/zh/)
+- [Oeasy](http://oeasy.org/) 这个站长传了很多教程视频，关于视频制作、PPT、WORD 等；
+- [Crash Course 中文字幕组](https://crashcourse.club/category/)
 
 ## 视频
 
