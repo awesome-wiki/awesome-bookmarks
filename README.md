@@ -178,6 +178,10 @@
 - [Oeasy](http://oeasy.org/) 这个站长传了很多教程视频，关于视频制作、PPT、WORD 等；
 - [Crash Course 中文字幕组](https://crashcourse.club/category/)
 
+### 健身
+
+- [musclewiki](https://musclewiki.org) 点击肌肉块，会有对应教程动画
+
 ## 视频
 
 ### 技术
