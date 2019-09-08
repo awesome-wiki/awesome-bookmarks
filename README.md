@@ -248,16 +248,16 @@
 - [谷歌访问助手](http://www.ggfwzs.com/)
 - [speedtest](http://www.speedtest.net/zh-Hans) 测网速
 - [在线涂鸦](http://weavesilk.com/)
-- [](http://www.xn--vi8hiv.ws/) linkmoji 🍕💩-网址转换为表情短链接
+- [linkmoji](http://www.xn--vi8hiv.ws/) linkmoji 🍕💩-网址转换为表情短链接
 - [oreilly-generator](http://oreilly-generator.com/) 图灵书籍封面制作
 
 ## 软件下载
 
 - [msdn.itellyou](https://msdn.itellyou.cn/)
-
-## API Doc
-
-- [pm25](http://www.pm25.in/api_doc)
+- [大眼仔](http://www.dayanzai.me/)
+- [ZD423](http://www.zdfans.com/)
+- [软件缘](https://www.appcgn.com/)
+- [NoCmd](https://www.nocmd.com/)
 
 ## 打赏
 
