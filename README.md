@@ -140,6 +140,10 @@
 - [smallpdf](https://smallpdf.com/cn) PDF 线上工具
 - [文件转换器](https://convertio.co/zh/)
 
+## 知识分享
+
+- [SlideShare](https://www.slideshare.net/) PPT 分享的网站，推荐
+
 ## 图片
 
 ### 图片资源
