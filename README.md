@@ -19,7 +19,8 @@
 - [虫部落-快搜](https://search.chongbuluo.com/) 集大成者，推荐！
 - [学术搜索](http://www.gycc.com/)
 - [谷歌趋势](https://trends.google.com/trends/?geo=US)
-- [设计师导航](http://hao.uisdc.com/)
+- [设计师导航](http://hao.uisdc.com/) 导航
+- [考拉新媒体导航](https://www.kaolamedia.com/) 导航 新媒体人必备运营神器
 - [SymbolHound](http://symbolhound.com/) 符号搜索
 - [java-api-examples](https://www.programcreek.com/java-api-examples/?action=search) 顾名思义
 
@@ -139,6 +140,7 @@
 - [幕布](https://mubu.com/list)
 - [smallpdf](https://smallpdf.com/cn) PDF 线上工具
 - [文件转换器](https://convertio.co/zh/)
+- [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
 
 ## 知识分享
 
@@ -244,6 +246,9 @@
 - [IT eBooks](http://it-ebooks.info/)
 - [Itbook](https://itbook.download/) 电子书下载
 - [booksee](https://en.booksee.org/)
+
+## 历史
+- [全历史](https://www.allhistory.com/) 很酷炫的网站，方便查看各个历史时期的成果！强烈推荐！
 
 ## 娱乐
 
