@@ -225,29 +225,36 @@
 
 ## 阅读
 
+### 有趣的资源
+
 - [值得学习的技术博客资源](https://michael728.github.io/2018/09/16/blog-interesting/)
 - [汉典](https://www.zdic.net/)
 - [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
-- [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
-- [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
 - [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
+- [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
+
+### 电子书
+
+中文资源：
+- [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
-- [SaltTiger](https://salttiger.com/archives/) 主要分享一些英文的 IT 电子书
 - [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
 - [熊猫搜书](https://ebook.huzerui.com/#/) 电子书搜索
+- [IT 熊猫](https://itpanda.net/book/) IT 电子书很多，质量很高
 - [博客-我的小书屋](http://mebook.cc/)
 - [Kindle伴侣](http://kindlefere.com/)
+- [三秋书屋](https://www.d4j.cn/)
+
+英文资源：
+- [SaltTiger](https://salttiger.com/archives/) 一位博主整理的最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式，推荐
 - [Library Genesis1M](http://gen.lib.rus.ec/)
-- [oreilly](https://www.oreilly.com.cn/ideas/)
 - [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
 - [Book see](http://en.booksee.org/)
-- [4FREE-EBOOKS Category Ebook search](http://4free-ebooks.com/)
-- [allitebooks](http://www.allitebooks.org/) 英文技术书籍下载
-- [IT eBooks](http://it-ebooks.info/)
-- [Itbook](https://itbook.download/) 电子书下载
-- [booksee](https://en.booksee.org/)
+- [allitebooks](http://www.allitebooks.org/)
+- [Itbook](https://itbook.download/)
 
 ## 历史
+
 - [全历史](https://www.allhistory.com/) 很酷炫的网站，方便查看各个历史时期的成果！强烈推荐！
 
 ## 娱乐
