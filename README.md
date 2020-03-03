@@ -42,6 +42,7 @@
 - [BitHubLab](https://www.bithublab.org/) 搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等的项目
 - [gitignore.io](https://www.gitignore.io/) 在线给开发项目生成 `.gitignore` 文件
 - [Octodex](https://octodex.github.com) Github 的章鱼猫图片集
+- [octoverse](https://octoverse.github.com/#overview) Github 技术趋势概览，比如，可以看到最新的开发语言排行等信息
 
 ### 正则
 
@@ -183,6 +184,7 @@
 - [盲打学习课程](https://www.typingstudy.com/zh/)
 - [Oeasy](http://oeasy.org/) 这个站长传了很多教程视频，关于视频制作、PPT、WORD 等；
 - [Crash Course 中文字幕组](https://crashcourse.club/category/)
+- [黑果小兵](https://blog.daliansky.net/)
 
 ### 健身
 
