@@ -277,6 +277,7 @@
 - [ZD423](http://www.zdfans.com/)
 - [软件缘](https://www.appcgn.com/)
 - [NoCmd](https://www.nocmd.com/)
+- [果核剥壳](https://www.ghpym.com/)
 
 ## 打赏
 
