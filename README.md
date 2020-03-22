@@ -41,7 +41,7 @@
 - [SymbolHound](http://symbolhound.com/) 符号搜索
 - [java-api-examples](https://www.programcreek.com/java-api-examples/?action=search) 顾名思义
 
-## 开发相关
+## IT 相关
 
 ### 开发工具
 
@@ -142,7 +142,11 @@
 
 ## 视频
 
-### 技术
+### 综合
+
+- [B 站](https://space.bilibili.com/12316226) 厚脸皮放一个自己的主页，但是不常更新
+
+### IT 相关
 
 - [IT大咖说](http://www.itdks.com/lives/) 技术视频分享
 - [odecasts](https://www.codecasts.com/) 从高质量的视频中学习 Web 开发技术，虽然关于 PHP 框架的多，但是还是能学到东西的
@@ -189,7 +193,7 @@
 
 ## 社区&论坛
 
-### 技术社区
+### IT 相关
 
 - [DockerOne](http://dockone.io/) 容器技术社区
 - [DaoCloud 社区](http://open.daocloud.io/)
@@ -281,9 +285,7 @@
 
 - [数字帝国](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
 - [desmos](https://www.desmos.com/) 数学函数绘制
-
-
-
+- [油管-Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)，B站有人搬运过来，并加了字幕 [【部分双字】线性代数的本质（几何意义）Essence of linear algebra](https://www.bilibili.com/video/av6081149?from=search&seid=17602732508884454089)
 
 ## 历史
 
