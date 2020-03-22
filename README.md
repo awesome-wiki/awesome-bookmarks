@@ -313,10 +313,10 @@
 ## awesome-wiki
 
 [awesome-wiki](https://github.com/awesome-wiki) 系列将会持续更新，目前为止有如下可供阅读的 wiki：
-- [awesome-wiki-books](https://awesome-wiki.github.io/awesome-wiki-books/#/)
-- [awesome-wiki-bookmarks](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/)
-- [awesome-wiki-IT](https://awesome-wiki.github.io/awesome-wiki-IT/#/)
-- [awesome-wiki-java](https://awesome-wiki.github.io/awesome-wiki-java/#/)
+- [awesome-wiki-books](https://awesome-wiki.github.io/awesome-wiki-books/#/) 收集高质量值得一读的书籍 📚
+- [awesome-wiki-bookmarks](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/) 书签「利器」收集 🍪🍿 
+- [awesome-wiki-IT](https://awesome-wiki.github.io/awesome-wiki-IT/#/) IT 基础知识 基本素养 💻☕️
+- [awesome-wiki-java](https://awesome-wiki.github.io/awesome-wiki-java/#/) Java 技术栈的知识点索引
 
 ## 说明
 
