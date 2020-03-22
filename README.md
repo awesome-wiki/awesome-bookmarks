@@ -5,7 +5,7 @@
     </a>
 </p>
 
-<!--  -->
+<!-- 徽章（Badge） -->
 <p align="center">
   <a href="https://awesome-wiki.github.io/awesome-wik-java">
     <img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读">
