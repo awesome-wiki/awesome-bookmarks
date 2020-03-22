@@ -27,9 +27,11 @@
 
 [在线阅读](https://awesome-wiki.github.io/awesome-wik-bookmarks/#/)
 
-![飞船](http://ww1.sinaimg.cn/large/6d9475f6ly1fx4gq3nu72j20hs0dcdha.jpg)
+因为本人是做程序开发的，因此，本页面收集的开发相关的书签也比较多！
 
 ## 搜索
+
+> 将这个排在第一个分享的主要原因就是，搜索技能是解决问题的必备技能！很多人搜索问题时常常输入一段话，其实，有时候效率不一定有提取关键词语搜索到的内容很准确！
 
 - [虫部落-快搜](https://search.chongbuluo.com/) 整合了Google邓其他搜索引擎，推荐！
 - [学术搜索](https://www.gycc.com/) 学术搜索，科研利器，国内可访问
@@ -39,68 +41,30 @@
 - [SymbolHound](http://symbolhound.com/) 符号搜索
 - [java-api-examples](https://www.programcreek.com/java-api-examples/?action=search) 顾名思义
 
-## 在线工具集
+## 开发相关
 
-- [Tool在线工具](http://tool.lu/) 很全的在线工具集合
+### 开发工具
+
+- [Tool在线工具](http://tool.lu/) 很全的在线工具集合，例如 URL 编码、JSON 格式化等都有
 - [站长工具 > UrlEncode编码/解码](http://tool.chinaz.com/Tools/urlencode.aspx)
 - [菜鸟工具](http://c.runoob.com/) 开发相关的大而全的工具集合
-- [MikuTols](https://miku.tools/) 集成了很多好玩的工具，包含了视频下载
 - [开源中国-在线工具](http://tool.oschina.net/)
 - [ATool](http://www.atool9.com/classification_dev_tools.html) 集成了开发者工具、站长工具、便民工具
 
-## Git 相关
+### Git 相关
 
 - [sourcegraph](https://sourcegraph.com/welcome#github-integration) 配合 Github 使用，真是利器，有 Chrome 扩展
 - [Git History](https://github.com/pomber/git-history) 一篇[文章](https://mp.weixin.qq.com/s?__biz=MzI4NTAyOTA0OA==&mid=2457432869&idx=1&sn=2a916adcff63c7350eb9bafdb1324316&chksm=fc7fb4f2cb083de443609f04d8db18da5f91c51eebddbda3d5c43ed2dc1fc694f5838da53337&mpshare=1&scene=1&srcid=#rd)介绍了如何使用它，但是我看了官网，貌似只需要将 GitHub 仓库的 「github.com」网址替换为「github-history.xyz.com」，则可以动态显示文件的提交历史，也有对应的[扩展](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related)
-- [BitHubLab](https://www.bithublab.org/) 搜索所有主要Git平台上的项目，包括GitHub，GitLab和BitBucket等的项目
+- [BitHubLab](https://www.bithublab.org/) 搜索所有主要 Git 平台上的项目，包括 GitHub，GitLab 和 BitBucket 等的项目
 - [gitignore.io](https://www.gitignore.io/) 在线给开发项目生成 `.gitignore` 文件
 - [Octodex](https://octodex.github.com) Github 的章鱼猫图片集
 - [octoverse](https://octoverse.github.com/#overview) Github 技术趋势概览，比如，可以看到最新的开发语言排行等信息
 
-## 正则
+### 正则
 
 - [正则可视化工具](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
 - [regexr](https://regexr.com/)
 - [JS 正则](https://regexper.com/)
-- [Github-ziishaned/learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) Github 上一个关注很高的正则教程
-
-## 图标
-
-- [占位图-极客标签](http://www.gbtags.com/gb/gblaitu.htm)
-- [图标搜索-easyicon](http://www.easyicon.net/)
-- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
-- [图标-Font Awesome](http://fontawesome.io/)
-- [奥森字体图标](http://www.thinkcmf.com/font)
-- [Instant Logo Search](http://instantlogosearch.com/) 企业 Logo
-
-## Web 前端
-
-- [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
-- [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
-- [Button Generator](http://www.bestcssbuttongenerator.com/) 生成CSS按钮
-- [codepen](https://codepen.io/) 代码在线编辑分享
-
-## 网络
-
-- [Dig GUI](https://www.diggui.com/)
-
-## 测试
-
-- [locust](https://github.com/locustio/locust/) Python 实现的压测工具，参考[作为程序员的你，常用的工具软件有哪些？](https://www.zhihu.com/question/22867411)
-
-## 数据库
-
-- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
-- [MyWebSQL](http://mywebsql.net/) 在线的 MySQL 客户端
-
-## 综合
-
-- [devdocs](https://devdocs.io/) 在线的开发文档，包含各个语言
-- [codelf](https://unbug.github.io/codelf/) 变量取名、函数取名
-- [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
-- [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
-- [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
-- [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤信息
 
 ## Linux
 
@@ -109,13 +73,60 @@
 - [ManKier](https://www.mankier.com/) Linux man pages
 - [ExplainShell](https://explainshell.com/) 顾名思义，输入 Shell 语句，它会帮你分析
 
-## 算法
+### Web 前端
 
-- [leetcode-cn](https://leetcode-cn.com/problemset/all/) 力扣，算法练习网站
-- [leetcode](https://leetcode.com/) 力扣英文
+- [HTML color codes and names](http://www.computerhope.com/htmcolor.htm)
+- [paletton](http://paletton.com/#uid=55a0u0kbRt14+E48dwffUpTkImm)
+- [Button Generator](http://www.bestcssbuttongenerator.com/) 生成CSS按钮
+- [codepen](https://codepen.io/) 代码在线编辑分享
+
+### 图标
+
+- [占位图-极客标签](http://www.gbtags.com/gb/gblaitu.htm)
+- [图标搜索-easyicon](http://www.easyicon.net/)
+- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+- [图标-Font Awesome](http://fontawesome.io/)
+- [奥森字体图标](http://www.thinkcmf.com/font)
+- [Instant Logo Search](http://instantlogosearch.com/) 企业 Logo
+
+## 网络
+
+- [Dig GUI](https://www.diggui.com/)
+
+### 测试
+
+- [locust](https://github.com/locustio/locust/) Python 实现的压测工具，参考[作为程序员的你，常用的工具软件有哪些？](https://www.zhihu.com/question/22867411)
+
+### 数据库
+
+- [廖雪峰-在线跑SQL的SQL教程](https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000)
+
+### API
+
+- [devdocs](https://devdocs.io/) 在线的开发文档，包含各个语言
+
+### 综合
+
+- [codelf](https://unbug.github.io/codelf/) 变量取名、函数取名
+- [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
+- [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
+- [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
+- [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤信息
+
+### 算法
+
+- [leetcode-cn](https://leetcode-cn.com/problemset/all/) 力扣，算法练习网站，[leetcode 英文版](https://leetcode.com/)
 - [PythonTip](http://www.pythontip.com/) 挑战 Python 算法练习
 - [algorithm-visualizer](https://algorithm-visualizer.org/) 一个算法可视化的在线演示网站
 - [sorting](http://sorting.at/) 排序算法可视化展示
+
+### 镜像源
+
+- [华为开源镜像站](https://mirrors.huaweicloud.com/) Maven 源、Manjaro 源、Elasticsearch 等都有，非常全
+- [阿里镜像](https://opsx.alibaba.com/mirror) 有 Homebrew 的镜像源
+- [USTC中科大镜像源](http://mirrors.ustc.edu.cn/)
+- [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+- [腾讯软件源](https://mirrors.cloud.tencent.com/)
 
 ## 数学
 
@@ -128,14 +139,6 @@
 - [nipponcolors](http://nipponcolors.com/#nadeshiko) 日本的一个配色网站
 - [flatuicolors](https://flatuicolors.com/) 配色网站，复制颜色
 
-## 镜像源
-
-- [华为开源镜像站](https://mirrors.huaweicloud.com/) Maven 源、Manjaro 源、Elasticsearch 等都有，非常全
-- [阿里镜像](https://opsx.alibaba.com/mirror) 有 Homebrew 的镜像源
-- [USTC中科大镜像源](http://mirrors.ustc.edu.cn/)
-- [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
-- [腾讯软件源](https://mirrors.cloud.tencent.com/)
-
 ## 职场
 
 - [冷熊简历](http://cv.ftqq.com/#) MD 简历生成 PDF
@@ -143,23 +146,28 @@
 
 ## 办公工具
 
+### 绘图
+
 - [ProcessOn](https://www.processon.com/i/55ddb6bae4b04fe84c504c5f) 自己也在付费使用的一个款在线绘图工具，流程图、思维导图、UMP 图等，都可以绘制，力荐！！！
 - [Cloudcraft](https://cloudcraft.co/#Create-your-cloud) 绘制网络设备架构图，很赞
-- [PDF工具](https://smallpdf.com/cn) 万能PDF工具集合
-- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
 - [百度脑图](http://naotu.baidu.com/)
+- [幕布](https://mubu.com/list)
+
+### Office&PDF
+
+- [PDF工具](https://smallpdf.com/cn) 万能PDF工具集合
 - [word pdf等格式转换](http://cn.diywz.com/)
+- [文件转换器](https://convertio.co/zh/)
+
+### 文档编辑
+
+- [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
+
+### 其他
+
 - [毛笔字体控制](https://www.zhenhaotv.com/) 生成毛笔字在线工具
 - [识字体](https://www.likefont.com/) 根据你上传图片的文字，识别字体
 - [字体转换器](http://www.diyiziti.com/)
-- [幕布](https://mubu.com/list)
-- [smallpdf](https://smallpdf.com/cn) PDF 线上工具
-- [文件转换器](https://convertio.co/zh/)
-- [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
-
-## 知识分享
-
-- [SlideShare](https://www.slideshare.net/) PPT 分享的网站，推荐
 
 ## 图片
 
@@ -183,6 +191,7 @@
 - [vectormagic](https://vectormagic.com/) 将图片转换成矢量图片
 - [logoly.pro](https://logoly.pro/) 可以自定义生成类似 `porxhub` 风格的图片，我的 [wiki logo](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/) 就是这么做的
 - [shields](https://shields.io/) Github 上很多项目的徽章就可以利用这个工具生成！
+- [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
 
 ## 浏览器
 
@@ -223,7 +232,9 @@
 - [人人字幕组](http://www.zimuzu.io/) 搜索字幕
 - [SubHD](http://subhd.com/) 字幕搜索
 
-## 技术社区
+## 社区&论坛
+
+### 技术社区
 
 - [DockerOne](http://dockone.io/) 容器技术社区
 - [DaoCloud 社区](http://open.daocloud.io/)
@@ -231,11 +242,11 @@
 - [TesterHome](https://testerhome.com/) 一个测试开发者社区，中文的
 - [V2EX](http://www.v2ex.com/)
 - [elastic 中文社区](https://elasticsearch.cn/)
+- [黑客与画家的社区](https://hacpai.com/) 以前 CSDN 上的称为「D大」的技术爱好者创建的社区
 
-## 有趣的社区
+### 有趣的社区
 
 - [利器](http://liqi.io/) 利器分享的网站，估计创始人和我一样喜欢“利器”，哈哈😜
-- [黑客与画家的社区](https://hacpai.com/) 以前 CSDN 上的称为「D大」的技术爱好者创建的社区
 - [书格](https://shuge.org/) 数字古籍图书馆
 - [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2) 一个教你折纸飞机的网站🛫
 - [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
@@ -245,11 +256,11 @@
 
 ### 有趣的资源
 
-- [值得学习的技术博客资源](https://michael728.github.io/2018/09/16/blog-interesting/)
 - [汉典](https://www.zdic.net/)
 - [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
 - [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
 - [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
+- [SlideShare](https://www.slideshare.net/) PPT 分享的网站，推荐
 
 ### 电子书
 
