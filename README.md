@@ -181,6 +181,8 @@
 - [TinyPng](https://tinypng.com/) 在线图片压缩网站
 - [Trianglify](https://trianglify.io/) 自己动手生成三角立体背景图片
 - [vectormagic](https://vectormagic.com/) 将图片转换成矢量图片
+- [logoly.pro](https://logoly.pro/) 可以自定义生成类似 `porxhub` 风格的图片，我的 [wiki logo](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/) 就是这么做的
+- [shields](https://shields.io/) Github 上很多项目的徽章就可以利用这个工具生成！
 
 ## 浏览器
 
