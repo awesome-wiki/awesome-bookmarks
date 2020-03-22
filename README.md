@@ -66,12 +66,16 @@
 - [regexr](https://regexr.com/)
 - [JS 正则](https://regexper.com/)
 
-## Linux
+### Linux
 
 - [commandlinefu](https://www.commandlinefu.com/commands/browse/sort-by-votes) 一个命令行欢迎排行的网站
 - [Man-Linux](https://man.cx/) Linux 命令行帮助查询，国外的，页面很简洁
 - [ManKier](https://www.mankier.com/) Linux man pages
 - [ExplainShell](https://explainshell.com/) 顾名思义，输入 Shell 语句，它会帮你分析
+
+### 网络
+
+- [Dig GUI](https://www.diggui.com/)
 
 ### Web 前端
 
@@ -88,10 +92,6 @@
 - [图标-Font Awesome](http://fontawesome.io/)
 - [奥森字体图标](http://www.thinkcmf.com/font)
 - [Instant Logo Search](http://instantlogosearch.com/) 企业 Logo
-
-## 网络
-
-- [Dig GUI](https://www.diggui.com/)
 
 ### 测试
 
@@ -110,8 +110,7 @@
 - [codelf](https://unbug.github.io/codelf/) 变量取名、函数取名
 - [httpbin](http://httpbin.org/) httpbin 是一个 HTTP 测试库，你可以拿它来测试 HTTP 请求，[源码地址](https://github.com/requests/httpbin)
 - [API-POI搜索服务](http://jwd.funnyapi.com/#/index) 经纬度行政区域查询 任意提交一个经纬度坐标和一个关键词（比如美食）获得周边相关服务的位置和简介信息
-- [JianshuRSS](http://jianshu.milkythinking.com/) 添加简书专题、文集或者作者的订阅，发现自[一个生物医学IT者的博客](http://www.bioinit.com/post/rss-tutorial)
-- [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤信息
+- [pythontutor](http://www.pythontutor.com/) 可以看到 Python 执行的步骤
 
 ### 算法
 
@@ -128,21 +127,86 @@
 - [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn)
 - [腾讯软件源](https://mirrors.cloud.tencent.com/)
 
-## 数学
+## 教程
 
-- [数字帝国](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
-- [desmos](https://www.desmos.com/) 数学函数绘制
+### IT 相关
 
-## 设计
+- [金老师的新教学网站](http://jinxuliang.com/OnlineStudy)
 
-- [稿定设计](https://www.gaoding.com/) [一篇文章](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247488635&idx=1&sn=9cd6ffeaac6d8c27277331a70ae9ed25&chksm=ec21efdcdb5666ca3e41c5fa9bc302232cf586afb5e94c71d605bd926356242574b2d8f07bfc&mpshare=1&scene=1&srcid=&sharer_sharetime=1565693416197&sharer_shareid=ae8eb1508a08c1b134df82bb484ea38d#rd) 介绍了这个作图超方便的网站！打算制作个公众号 logo 试试~
-- [nipponcolors](http://nipponcolors.com/#nadeshiko) 日本的一个配色网站
-- [flatuicolors](https://flatuicolors.com/) 配色网站，复制颜色
+### Other
 
-## 职场
+- [盲打学习课程](https://www.typingstudy.com/zh/)
+- [Oeasy](http://oeasy.org/) 这个站长传了很多教程视频，关于视频制作、PPT、WORD 等；
+- [Crash Course 中文字幕组](https://crashcourse.club/category/)
+- [黑果小兵](https://blog.daliansky.net/)
 
-- [冷熊简历](http://cv.ftqq.com/#) MD 简历生成 PDF
-- [天眼查](https://www.tianyancha.com/)
+## 视频
+
+### 技术
+
+- [IT大咖说](http://www.itdks.com/lives/) 技术视频分享
+- [odecasts](https://www.codecasts.com/) 从高质量的视频中学习 Web 开发技术，虽然关于 PHP 框架的多，但是还是能学到东西的
+- [中国大学MOOC](https://www.icourse163.org/)
+- [学堂在线](http://www.xuetangx.com/)
+
+### 影视娱乐
+
+- [RARBG](https://rarbgprx.org/torrents.php) 视频下载，国外资源
+- [胖鸟电影](http://www.pniao.com/) ~~国内资源，最近因「绿皮书」资源，被封~~
+- [字幕库](https://www.zimuku.cn/newsubs) 搜索字幕
+- [人人字幕组](http://www.zimuzu.io/) 搜索字幕
+- [SubHD](http://subhd.com/) 字幕搜索
+
+## 阅读
+
+### 有趣的资源
+
+- [汉典](https://www.zdic.net/)
+- [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
+- [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
+- [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
+- [SlideShare](https://www.slideshare.net/) PPT 分享的网站，推荐
+
+### 电子书
+
+中文资源：
+- [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
+- [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
+- [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
+- [熊猫搜书](https://ebook.huzerui.com/#/) 电子书搜索
+- [IT 熊猫](https://itpanda.net/book/) IT 电子书很多，质量很高
+- [博客-我的小书屋](http://mebook.cc/)
+- [Kindle伴侣](http://kindlefere.com/)
+- [三秋书屋](https://www.d4j.cn/)
+
+英文资源：
+- [SaltTiger](https://salttiger.com/archives/) 一位博主整理的最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式，推荐
+- [Library Genesis1M](http://gen.lib.rus.ec/)
+- [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
+- [Book see](http://en.booksee.org/)
+- [allitebooks](http://www.allitebooks.org/)
+- [Itbook](https://itbook.download/)
+
+## 社区&论坛
+
+### 技术社区
+
+- [DockerOne](http://dockone.io/) 容器技术社区
+- [DaoCloud 社区](http://open.daocloud.io/)
+- [增长黑盒](http://growthbox.net/) 一个网络安全的咨询网站
+- [TesterHome](https://testerhome.com/) 一个测试开发者社区，中文的
+- [V2EX](http://www.v2ex.com/)
+- [elastic 中文社区](https://elasticsearch.cn/)
+- [黑客与画家的社区](https://hacpai.com/) 以前 CSDN 上的称为「D大」的技术爱好者创建的社区
+
+### 有趣的社区
+
+- [利器](http://liqi.io/) 利器分享的网站，估计创始人和我一样喜欢“利器”，哈哈😜
+- [书格](https://shuge.org/) 数字古籍图书馆
+- [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2) 一个教你折纸飞机的网站🛫
+- [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
+- [Emojipedia](https://emojipedia.org/) emoji表情搜索
+
 
 ## 办公工具
 
@@ -198,89 +262,28 @@
 - [chrome插件下载](http://chromecj.com/)
 - [Chrome扩展收藏列表](https://michael728.github.io/2015/11/26/tools-chrome-extentions/)
 
-## 教程
+## 设计
 
-### IT 相关
+- [稿定设计](https://www.gaoding.com/) [一篇文章](https://mp.weixin.qq.com/s?__biz=MzI5MDM4NTYwOA==&mid=2247488635&idx=1&sn=9cd6ffeaac6d8c27277331a70ae9ed25&chksm=ec21efdcdb5666ca3e41c5fa9bc302232cf586afb5e94c71d605bd926356242574b2d8f07bfc&mpshare=1&scene=1&srcid=&sharer_sharetime=1565693416197&sharer_shareid=ae8eb1508a08c1b134df82bb484ea38d#rd) 介绍了这个作图超方便的网站！打算制作个公众号 logo 试试~
+- [nipponcolors](http://nipponcolors.com/#nadeshiko) 日本的一个配色网站
+- [flatuicolors](https://flatuicolors.com/) 配色网站，复制颜色
 
-- [金老师的新教学网站](http://jinxuliang.com/OnlineStudy)
+## 职场
 
-### Other
-
-- [盲打学习课程](https://www.typingstudy.com/zh/)
-- [Oeasy](http://oeasy.org/) 这个站长传了很多教程视频，关于视频制作、PPT、WORD 等；
-- [Crash Course 中文字幕组](https://crashcourse.club/category/)
-- [黑果小兵](https://blog.daliansky.net/)
+- [冷熊简历](http://cv.ftqq.com/#) MD 简历生成 PDF
+- [天眼查](https://www.tianyancha.com/)
 
 ## 健身
 
 - [musclewiki](https://musclewiki.org) 点击肌肉块，会有对应教程动画
 
-## 视频
+## 数学
 
-### 技术
+- [数字帝国](https://zh.numberempire.com/) 函数绘制、不定积分计算等功能
+- [desmos](https://www.desmos.com/) 数学函数绘制
 
-- [IT大咖说](http://www.itdks.com/lives/) 技术视频分享
-- [odecasts](https://www.codecasts.com/) 从高质量的视频中学习 Web 开发技术，虽然关于 PHP 框架的多，但是还是能学到东西的
-- [中国大学MOOC](https://www.icourse163.org/)
-- [学堂在线](http://www.xuetangx.com/)
 
-### 影视娱乐
 
-- [RARBG](https://rarbgprx.org/torrents.php) 视频下载，国外资源
-- [胖鸟电影](http://www.pniao.com/) ~~国内资源，最近因「绿皮书」资源，被封~~
-- [字幕库](https://www.zimuku.cn/newsubs) 搜索字幕
-- [人人字幕组](http://www.zimuzu.io/) 搜索字幕
-- [SubHD](http://subhd.com/) 字幕搜索
-
-## 社区&论坛
-
-### 技术社区
-
-- [DockerOne](http://dockone.io/) 容器技术社区
-- [DaoCloud 社区](http://open.daocloud.io/)
-- [增长黑盒](http://growthbox.net/) 一个网络安全的咨询网站
-- [TesterHome](https://testerhome.com/) 一个测试开发者社区，中文的
-- [V2EX](http://www.v2ex.com/)
-- [elastic 中文社区](https://elasticsearch.cn/)
-- [黑客与画家的社区](https://hacpai.com/) 以前 CSDN 上的称为「D大」的技术爱好者创建的社区
-
-### 有趣的社区
-
-- [利器](http://liqi.io/) 利器分享的网站，估计创始人和我一样喜欢“利器”，哈哈😜
-- [书格](https://shuge.org/) 数字古籍图书馆
-- [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2) 一个教你折纸飞机的网站🛫
-- [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
-- [Emojipedia](https://emojipedia.org/) emoji表情搜索
-
-## 阅读
-
-### 有趣的资源
-
-- [汉典](https://www.zdic.net/)
-- [阮一峰-每周分享](https://www.yuque.com/ruanyf/share)
-- [Inoreader](https://www.inoreader.com/) 在线的 RSS 阅读平台，遇到好的博客，通常都会订阅一下，RSS 发现来源：[feedx](https://feedx.net/)、[RSSHub](https://docs.rsshub.app/) 能够发现很多 RSS 地址
-- [钛媒体](http://www.tmtpost.com/) 一些科技新闻质量还不错
-- [SlideShare](https://www.slideshare.net/) PPT 分享的网站，推荐
-
-### 电子书
-
-中文资源：
-- [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
-- [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
-- [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
-- [熊猫搜书](https://ebook.huzerui.com/#/) 电子书搜索
-- [IT 熊猫](https://itpanda.net/book/) IT 电子书很多，质量很高
-- [博客-我的小书屋](http://mebook.cc/)
-- [Kindle伴侣](http://kindlefere.com/)
-- [三秋书屋](https://www.d4j.cn/)
-
-英文资源：
-- [SaltTiger](https://salttiger.com/archives/) 一位博主整理的最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式，推荐
-- [Library Genesis1M](http://gen.lib.rus.ec/)
-- [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
-- [Book see](http://en.booksee.org/)
-- [allitebooks](http://www.allitebooks.org/)
-- [Itbook](https://itbook.download/)
 
 ## 历史
 
