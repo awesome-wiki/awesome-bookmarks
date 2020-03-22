@@ -1,10 +1,11 @@
-
+<!-- 封面 logo -->
 <p align="center">
     <a href="https://github.com/awesome-wiki/awesome-wiki-bookmarks" target="_blank">
         <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-bookmarks.png" width=""/>
     </a>
 </p>
 
+<!--  -->
 <p align="center">
   <a href="https://awesome-wiki.github.io/awesome-wik-java">
     <img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读">
@@ -17,15 +18,13 @@
 > 希望收藏爱好着能发现有用的东西，也欢迎你推荐你正在使用的 「利器」！
 
 更多原创内容和干货分享：
-- [微信](#联系我) ：如果需要和我交流的话可以加我私人微信(ps: 有问题的话也可以问，我会尽量回答大家，我很随和的，哈哈！另外，账号快加满了)
+- [微信](#联系我) ：乐于交志同道合的朋友，欢迎扫一扫，备注来源哈
 - [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
 <!-- - [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍 -->
 
 [在线阅读](https://awesome-wiki.github.io/awesome-wik-bookmarks/#/)
 
 ![飞船](http://ww1.sinaimg.cn/large/6d9475f6ly1fx4gq3nu72j20hs0dcdha.jpg)
-
-这里总结一下私藏的**利器**🎯：
 
 ## 搜索
 
@@ -296,7 +295,7 @@
 
 ### Contributor
 
-可以采用如下方法推荐推荐你的「利器」：
+可以采用如下方法推荐推荐你的「利器」🎯：
 
 - Fork 仓库 [awesome-wiki-bookmarks](https://github.com/awesome-wiki/awesome-wiki-bookmarks) 提交 PR，推荐方式
 - 在下方留言
