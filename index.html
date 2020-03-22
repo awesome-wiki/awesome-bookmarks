@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app"></div>
@@ -22,7 +23,7 @@
       maxLevel: 3,//最大支持渲染的标题层级
       coverpage: true,//封面,_coverpage.md
       auto2top: true,//切换页面后是否自动跳转到页面顶部
-      disqus: 'michaelxiang',
+      // disqus: 'michaelxiang',
       search: {
         //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
@@ -47,6 +48,20 @@
   <!-- https://github.com/njleonzhang/docsify-edit-on-github  在 Github 上编辑 -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <!-- https://docsify.js.org/#/zh-cn/plugins?id=disqus -->
-  <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script> -->
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+     const gitalk = new Gitalk({
+       clientID: '148af11b43a93927f1ab',
+       clientSecret: '3bba65a13bd88a8ac7497d3630240c5382bac40b',
+       repo: 'awesome-wiki-bookmarks',
+       owner: 'awesome-wiki',
+       admin: ['Michael728'],
+       id: location.pathname,
+       // facebook-like distraction free mode
+       distractionFreeMode: true
+     })
+  </script>
 </body>
 </html>
