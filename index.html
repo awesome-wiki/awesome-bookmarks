@@ -24,7 +24,7 @@
       auto2top: true,//切换页面后是否自动跳转到页面顶部
       // disqus: 'michaelxiang',
       search: {
-        //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
         placeholder: '搜索',
         noData: '找不到结果',
@@ -39,7 +39,8 @@
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
   <!--全文搜索,直接用官方提供的无法生效-->
   <!-- <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script> -->
-  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/plugins/search.js"></script> -->
   <!-- https://docsify.js.org/#/zh-cn/plugins?id=emoji 支持 emoji 表情 -->
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
   <!-- 分页导航插件 -->
