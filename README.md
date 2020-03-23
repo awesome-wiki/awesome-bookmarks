@@ -224,7 +224,7 @@
 ### Office&PDF
 
 - [PDF工具](https://smallpdf.com/cn) 万能PDF工具集合
-- [word pdf等格式转换](http://cn.diywz.com/)
+- [Word PDF 等格式转换](http://cn.diywz.com/)
 - [文件转换器](https://convertio.co/zh/)
 
 ### 文档编辑
