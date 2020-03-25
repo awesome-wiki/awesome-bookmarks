@@ -22,7 +22,7 @@
       auto2top: true,//切换页面后是否自动跳转到页面顶部
       // disqus: 'michaelxiang',
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        // maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
         placeholder: '搜索',
         noData: '找不到结果',
@@ -31,8 +31,8 @@
       }
     }
   </script>
-  <script src="//unpkg.com/docsify"></script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
   <!--Java代码高亮-->
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
   <!--全文搜索,直接用官方提供的无法生效-->
@@ -57,7 +57,7 @@
        admin: ['Michael728'],
        id: location.pathname,
        // facebook-like distraction free mode
-       distractionFreeMode: true
+       distractionFreeMode: false
      })
   </script>
 </body>
