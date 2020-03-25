@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 <body>
-  <div id="app"> Loading…… ヾﾉ≧∀≦)o </div>
+  <div id="app"> Loading… ヾﾉ≧∀≦)o </div>
   <script>
     window.$docsify = {
       name: 'awesome-wiki-bookmarks',
@@ -19,7 +19,14 @@
       coverpage: '_coverpage.md',     // Custom file name
       maxLevel: 3,//最大支持渲染的标题层级
       auto2top: true,//切换页面后是否自动跳转到页面顶部
-      search: 'auto'
+      search: {
+        //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3
+      }
       // disqus: 'michaelxiang',
     }
   </script>
