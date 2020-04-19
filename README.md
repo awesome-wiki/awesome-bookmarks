@@ -154,8 +154,8 @@
 
 ### 影视娱乐
 
+- [奈菲影视](https://www.nfmovies.com/)
 - [RARBG](https://rarbgprx.org/torrents.php) 视频下载，国外资源
-- [胖鸟电影](http://www.pniao.com/) ~~国内资源，最近因「绿皮书」资源，被封~~
 - [字幕库](https://www.zimuku.cn/newsubs) 搜索字幕
 - [人人字幕组](http://www.zimuzu.io/) 搜索字幕
 - [SubHD](http://subhd.com/) 字幕搜索
