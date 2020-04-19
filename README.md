@@ -173,6 +173,7 @@
 ### 电子书
 
 中文资源：
+- [i-book](https://book.tstrs.me/) 一个索引 IPFS 链接的搜索引擎，旨在为 IPFS 网络内储存的零散文件做一个索引
 - [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
 - [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
@@ -184,7 +185,7 @@
 
 英文资源：
 - [SaltTiger](https://salttiger.com/archives/) 一位博主整理的最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式，推荐
-- [Library Genesis1M](http://gen.lib.rus.ec/)
+- [Library Genesis1M](http://gen.lib.rus.ec/) 英文书籍搜索引擎
 - [pythonbooks](https://pythonbooks.revolunet.com/) Python 英文技术图书
 - [Book see](http://en.booksee.org/)
 - [allitebooks](http://www.allitebooks.org/)
