@@ -214,13 +214,6 @@
 
 ## 办公工具
 
-### 绘图
-
-- [ProcessOn](https://www.processon.com/i/55ddb6bae4b04fe84c504c5f) 自己也在付费使用的一个款在线绘图工具，流程图、思维导图、UMP 图等，都可以绘制，力荐！！！
-- [Cloudcraft](https://cloudcraft.co/#Create-your-cloud) 绘制网络设备架构图，很赞
-- [百度脑图](http://naotu.baidu.com/)
-- [幕布](https://mubu.com/list)
-
 ### Office&PDF
 
 - [PDF 工具](https://smallpdf.com/cn) 万能 PDF 工具集合
@@ -232,6 +225,13 @@
 - [md.aclickall](http://md.aclickall.com/) 为了能在知乎利用markdown发文章，发现了这个工具，类似的还有：[online-markdown](http://blog.didispace.com/tools/online-markdown/)、[mdnice](https://www.mdnice.com/)
 - [壹伴](https://yiban.io/) 微信公众号高效地排版、修图、找素材
 
+### 绘图
+
+- [ProcessOn](https://www.processon.com/i/55ddb6bae4b04fe84c504c5f) 自己也在付费使用的一个款在线绘图工具，流程图、思维导图、UMP 图等，都可以绘制，力荐！！！
+- [Cloudcraft](https://cloudcraft.co/#Create-your-cloud) 绘制网络设备架构图，很赞
+- [百度脑图](http://naotu.baidu.com/)
+- [幕布](https://mubu.com/list)
+
 ### 其他
 
 - [毛笔字体控制](https://www.zhenhaotv.com/) 生成毛笔字在线工具
@@ -239,6 +239,16 @@
 - [字体转换器](http://www.diyiziti.com/)
 
 ## 图片
+
+### 图片工具
+
+- [TinyPng](https://tinypng.com/) 在线图片压缩网站
+- [Trianglify](https://trianglify.io/) 自己动手生成三角立体背景图片
+- [vectormagic](https://vectormagic.com/) 将图片转换成矢量图片
+- [logoly.pro](https://logoly.pro/) 可以自定义生成类似 `porxhub` 风格的图片，我的 [wiki logo](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/) 就是这么做的
+- [shields](https://shields.io/) Github 项目的徽章就可以利用这个工具生成！
+- [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
+- [carbon](https://carbon.now.sh/) 生成比较精美的代码图片
 
 ### 图片资源
 
@@ -252,15 +262,6 @@
 - [justinmaller](http://www.justinmaller.com/) 立体图案的壁纸
 - [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
 - [图鱼](http://www.hituyu.com/) 图片纹理素材
-
-### 图片工具
-
-- [TinyPng](https://tinypng.com/) 在线图片压缩网站
-- [Trianglify](https://trianglify.io/) 自己动手生成三角立体背景图片
-- [vectormagic](https://vectormagic.com/) 将图片转换成矢量图片
-- [logoly.pro](https://logoly.pro/) 可以自定义生成类似 `porxhub` 风格的图片，我的 [wiki logo](https://awesome-wiki.github.io/awesome-wiki-bookmarks/#/) 就是这么做的
-- [shields](https://shields.io/) Github 上很多项目的徽章就可以利用这个工具生成！
-- [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
 
 ## 浏览器
 
