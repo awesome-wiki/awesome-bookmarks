@@ -332,13 +332,9 @@
 
 > 如果推荐被收纳，将在下方列出贡献者!
 
-### 联系我
-<!-- tab 微信号@wechat -->
-![微信号](https://gitee.com/michael_xiang/images/raw/master/微信二维码-翔-250-250.jpeg)
-
 ### 公众号
 <!-- tab 公众号@feed -->
-![公众号 Coder魔法院](https://gitee.com/michael_xiang/images/raw/master/微信公众号.jpg)
+![公众号 Coder魔法院](media/pictures/logo/wechat-subscribe.jpg)
 
 ### 支持
 
