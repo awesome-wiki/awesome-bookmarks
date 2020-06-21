@@ -1,1 +1,1 @@
-[awesome-wiki-bookmarks](README.md)
+* [awesome-wiki-bookmarks](README.md)
