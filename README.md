@@ -24,7 +24,7 @@
 - [微信](#联系我) ：乐于交志同道合的朋友，欢迎扫一扫，备注来源哈 :100: 
 - [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 🎯
 
-[在线阅读](https://awesome-wiki.github.io/awesome-wik-bookmarks/#/)
+[在线阅读](https://coder-magic.gitbook.io/awesome-wiki-bookmarks/)
 
 因为本人是程序猿一枚，因此，本页面收集的开发相关的书签也比较多！
 
@@ -228,9 +228,10 @@
 ### 绘图
 
 - [ProcessOn](https://www.processon.com/i/55ddb6bae4b04fe84c504c5f) 自己也在付费使用的一个款在线绘图工具，流程图、思维导图、UMP 图等，都可以绘制，力荐！！！
+- [小画桌](https://xiaohuazhuo.com/workshop) 白板绘图
 - [Cloudcraft](https://cloudcraft.co/#Create-your-cloud) 绘制网络设备架构图，很赞
-- [百度脑图](http://naotu.baidu.com/)
 - [幕布](https://mubu.com/list)
+- [百度脑图](http://naotu.baidu.com/)
 
 ### 其他
 
