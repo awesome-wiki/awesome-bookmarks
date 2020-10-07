@@ -86,7 +86,7 @@
 ### 图标
 
 - [占位图-极客标签](http://www.gbtags.com/gb/gblaitu.htm)
-- [图标搜索-easyicon](http://www.easyicon.net/)
+- [图标搜索-easyicon](https://www.easyicon.net/) app 图标、ico 图标
 - [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 - [图标-Font Awesome](http://fontawesome.io/)
 - [奥森字体图标](http://www.thinkcmf.com/font)
@@ -173,7 +173,7 @@
 ### 电子书
 
 中文资源：
-- [i-book](https://book.tstrs.me/) 一个索引 IPFS 链接的搜索引擎，旨在为 IPFS 网络内储存的零散文件做一个索引
+
 - [看云](https://www.kancloud.cn/explore) 有很多中文 IT wiki
 - [扫地僧的橱柜](http://ebooksplan.club/) 「每周一书」推荐的书籍评分也都不错
 - [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
@@ -182,6 +182,8 @@
 - [博客-我的小书屋](http://mebook.cc/)
 - [Kindle伴侣](http://kindlefere.com/)
 - [三秋书屋](https://www.d4j.cn/)
+- [EBOOK](https://ebook.ipfs-lab.com/)
+- [好读](http://www.haodoo.net/?M=hd&P=welcome)
 
 英文资源：
 - [SaltTiger](https://salttiger.com/archives/) 一位博主整理的最新出版的技术类书籍，全部为英文原版，PDF、EPUB、MOBI、AZW3等多种格式，推荐
@@ -202,6 +204,7 @@
 - [V2EX](http://www.v2ex.com/)
 - [elastic 中文社区](https://elasticsearch.cn/)
 - [黑客与画家的社区](https://hacpai.com/) 以前 CSDN 上的称为「D大」的技术爱好者创建的社区
+- [并发编程网](http://ifeve.com/) 质量较高的 Java 开发社区
 
 ### 有趣的社区
 
@@ -210,7 +213,6 @@
 - [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2) 一个教你折纸飞机的网站🛫
 - [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
 - [Emojipedia](https://emojipedia.org/) emoji表情搜索
-
 
 ## 办公工具
 
@@ -251,18 +253,38 @@
 - [remove.bg](https://www.remove.bg/zh) 图片处理 专注于人物抠图的神器
 - [carbon](https://carbon.now.sh/) 生成比较精美的代码图片
 
+### 图片设计
+
+- [YEELOGO](http://yeelogo.com/#/) LOGO 图标制作
+- [图怪兽](https://818ps.com/) 海报、logo 等作图
+- [可画](https://www.canva.cn/) 海报、公众号配图等制作
+- [创客贴](https://www.chuangkit.com/) 极简的设计工具
+
 ### 图片资源
 
 - [Pixabay](https://pixabay.com/) 免费图片，不可商用，可搜中文
 - [Pexels](https://www.pexels.com/) 免费图片，不可商用
 - [Unsplash](https://unsplash.com/) 免费图片，不可商用
 - [colorhub](https://colorhub.me/) 高清无版权图片，个人和商业用途免费
+
+### 壁纸
+
+- [Bing 壁纸](https://bing.lylares.com/)
 - [wallhaven](https://wallhaven.cc/) 壁纸网站
 - [wallpapershome](https://wallpapershome.com/) 壁纸
 - [ZOL桌面壁纸](http://desk.zol.com.cn/)
 - [justinmaller](http://www.justinmaller.com/) 立体图案的壁纸
 - [dynamicwallpaper](https://dynamicwallpaper.club) MacOS 动态壁纸下载网站，壁纸会随着一天里面的时间不同，自动变换
+
+### LOGO
+
 - [图鱼](http://www.hituyu.com/) 图片纹理素材
+- [LogoSearch](https://logosear.ch/search.html) LOGO 商标图片搜索
+- [Instant Logo Search](http://instantlogosearch.com/) LOGO 商标图片搜索
+
+### 图床
+
+- [图壳](https://imgkr.com/#upload)
 
 ## 浏览器
 
@@ -312,6 +334,10 @@
 - [软件缘](https://www.appcgn.com/)
 - [NoCmd](https://www.nocmd.com/)
 - [果核剥壳](https://www.ghpym.com/)
+
+### Linux 软件
+
+- [RPM 软件包搜索](http://rpm.pbone.net/)
 
 ## awesome-wiki
 
