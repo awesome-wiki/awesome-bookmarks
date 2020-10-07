@@ -214,6 +214,7 @@
 - [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
 - [Emojipedia](https://emojipedia.org/) emoji表情搜索
 - [火柴人](http://pictogram2.com/)
+- [hitokoto](https://hitokoto.cn/) 一言
 
 ## 办公工具
 
