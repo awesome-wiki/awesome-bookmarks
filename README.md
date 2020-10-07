@@ -213,6 +213,7 @@
 - [Paper Airplane Designs](https://www.foldnfly.com/index.html#/1-1-1-1-1-1-1-1-2) 一个教你折纸飞机的网站🛫
 - [Rainy Mood](https://www.rainymood.com/) 下雨的声音好像能让人“想静静”
 - [Emojipedia](https://emojipedia.org/) emoji表情搜索
+- [火柴人](http://pictogram2.com/)
 
 ## 办公工具
 
