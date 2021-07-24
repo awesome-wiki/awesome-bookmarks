@@ -179,6 +179,7 @@
 - [鸠摩-电子书搜索](https://www.jiumodiary.com/) 推荐，电子书搜索引擎,可以按照mobi, epub, pdf等格式分类
 - [熊猫搜书](https://ebook.huzerui.com/#/) 电子书搜索
 - [IT 熊猫](https://itpanda.net/book/) IT 电子书很多，质量很高
+- [逍遥云](https://yun.weicheng.men/?dir=Book) 博主收集了很多电子书！
 - [博客-我的小书屋](http://mebook.cc/)
 - [Kindle伴侣](http://kindlefere.com/)
 - [三秋书屋](https://www.d4j.cn/)
