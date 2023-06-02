@@ -74,6 +74,7 @@
 
 ### 网络
 
+- [DNS checker](https://www.nslookup.io/dns-checker/)
 - [Dig GUI](https://www.diggui.com/)
 
 ### Web 前端
